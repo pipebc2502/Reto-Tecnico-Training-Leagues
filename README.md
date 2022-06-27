@@ -4,4 +4,4 @@
 
 -Puerto: 3306
 -Usuario: root
-Contraseña: 12345
+-Contraseña: 12345
