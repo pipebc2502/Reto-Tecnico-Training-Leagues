@@ -1,8 +1,8 @@
 # Reto-Tecnico-Training-Leagues
 
-##Configuracion Base de datos
+Configuracion Base de datos
 
--Puerto: 3306
--Usuario: root
--Contraseña: 12345
+1. Puerto: 3306
+2. Usuario: root
+3. Contraseña: 12345
 
