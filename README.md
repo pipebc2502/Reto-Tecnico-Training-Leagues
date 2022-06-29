@@ -1,7 +1,7 @@
 # Reto-Tecnico-Training-Leagues
 
 ~~~
-Configuracion Base de datos
+<h2>Configuracion Base de datos</h2>
 ~~~
 
 1. Puerto: 3306
